@@ -1,4 +1,4 @@
-# alzahra-workshop-spr2021
+# Al-Zahra Workshop Spring 2021
 This repository contains the contents of the "Python for economics" workshop at Al-Zahra University.
 
 <img src = "https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/poster.jpg?raw=true" width="550" >
