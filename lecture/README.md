@@ -9,6 +9,7 @@
 - Packages:
   - NumPy
   - Matplotlib
-  - Pandas
+  - Pandas (part 01)
+  - Pandas (part 02)
   - Sympy*
 - Markdown*
