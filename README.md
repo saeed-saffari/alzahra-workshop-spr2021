@@ -9,3 +9,7 @@ This repository contains the contents of the "Python for economics" workshop at 
 2. **Jupyter Notebook** will be used as development environment.
 3. Always **rewriting** the codes yourself again.
 4. Improve your **search skill**. You can use [Stack Overflow](https://stackoverflow.com/) and [GitHub](https://github.com/).
+
+## Required links
+- [Ask Questions](https://docs.google.com/forms/d/e/1FAIpQLSd5AKWASlCQB6Q_LGrGK1WpsHCIcDQ2CNUN3CkdXMHyrHmkLQ/viewform?usp=sf_link) or Email: m.saeed1024@yahoo.com
+- [Send Exercises](https://docs.google.com/forms/d/e/1FAIpQLScvHwnyRrKd_PgDZhd7nKxpyXJCFFK6ikaaLr8HGhwHeW6Hcg/viewform?usp=sf_link) (Only send files in **ipynb format** and the name of the files must include the **Exercise number** and **your Name**. (Like: "Exercise_1-Saeed Saffari.ipynb"))
