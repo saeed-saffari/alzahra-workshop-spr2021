@@ -13,3 +13,6 @@
   - Pandas (part 02)
   - Sympy*
 - Markdown*
+
+## Exercises
+- [Exercise 01 (Python Basic)](https://www.dropbox.com/s/vj6w0w965goxdel/Exercise%201.pdf?dl=0)
