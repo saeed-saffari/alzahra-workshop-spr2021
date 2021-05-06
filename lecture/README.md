@@ -18,3 +18,4 @@
 
 ## Exercises
 - [Exercise 01 (Python Basic)](https://www.dropbox.com/s/vj6w0w965goxdel/Exercise%201.pdf?dl=0)
+- [Exercise 02 (Loops and Functions)](https://www.dropbox.com/s/v1cpukqa5zieboj/Exercise%202.pdf?dl=0)
