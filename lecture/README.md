@@ -9,7 +9,7 @@
 - [Python Statements and Functions](https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/2.%20Conditional%20Control%20and%20Function.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/2.%20Conditional%20Control%20and%20Function.ipynb)
 
 - Packages:
-  - NumPy
+  - Numpy
   - Matplotlib
   - Pandas (part 01)
   - Pandas (part 02)
