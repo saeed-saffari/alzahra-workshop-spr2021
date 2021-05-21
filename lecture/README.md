@@ -9,8 +9,8 @@
 - [Python Statements and Functions](https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/2.%20Conditional%20Control%20and%20Function.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/2.%20Conditional%20Control%20and%20Function.ipynb)
 
 - Packages:
-  - Numpy
-  - Matplotlib
+  - [Numpy](https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/3.%20NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/3.%20NumPy.ipynb)
+  - [Matplotlib](https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/4.%20Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/4.%20Matplotlib.ipynb)
   - Pandas (part 01)
   - Pandas (part 02)
   - Sympy*
@@ -19,3 +19,5 @@
 ## Exercises
 - [Exercise 01 (Python Basic)](https://www.dropbox.com/s/vj6w0w965goxdel/Exercise%201.pdf?dl=0)
 - [Exercise 02 (Loops and Functions)](https://www.dropbox.com/s/v1cpukqa5zieboj/Exercise%202.pdf?dl=0)
+- [Exercise 03 (Numpy and Matplotlib)](https://www.dropbox.com/s/7vblp4yeuj2f4x2/Exercise%203.pdf?dl=0)
+
