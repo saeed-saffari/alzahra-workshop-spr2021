@@ -11,13 +11,16 @@
 - Packages:
   - [Numpy](https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/3.%20NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/3.%20NumPy.ipynb)
   - [Matplotlib](https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/4.%20Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/4.%20Matplotlib.ipynb)
-  - Pandas (part 01)
-  - Pandas (part 02)
+  - [Pandas (part 01)](https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/5.%20Pandas%2001.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/5.%20Pandas%2001.ipynb)
+  - [Pandas (part 02)](https://github.com/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/6.%20Pandas%2002.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saeed-saffari/alzahra-workshop-spr2021/blob/main/lecture/6.%20Pandas%2002.ipynb)
   - Sympy*
 - Markdown*
+- Projects*
 
 ## Exercises
 - [Exercise 01 (Python Basic)](https://www.dropbox.com/s/vj6w0w965goxdel/Exercise%201.pdf?dl=0)
 - [Exercise 02 (Loops and Functions)](https://www.dropbox.com/s/v1cpukqa5zieboj/Exercise%202.pdf?dl=0)
 - [Exercise 03 (Numpy and Matplotlib)](https://www.dropbox.com/s/1slbnvixgg469nl/Exercise%203.pdf?dl=0)
+- [Exercise 04 (Pandas 01 & 02)](https://www.dropbox.com/s/6dkftc444y2yk1e/Exercise%204.pdf?dl=0)
+
 
