@@ -23,7 +23,7 @@
 - [Exercise 02 (Loops and Functions)](https://www.dropbox.com/s/v1cpukqa5zieboj/Exercise%202.pdf?dl=0)
 - [Exercise 03 (Numpy and Matplotlib)](https://www.dropbox.com/s/1slbnvixgg469nl/Exercise%203.pdf?dl=0)
 - [Exercise 04 (Pandas 01 & 02)](https://www.dropbox.com/s/6dkftc444y2yk1e/Exercise%204.pdf?dl=0)
-- [Exercise 05 (Pandas 03)]()
+- [Exercise 05 (Pandas 03)](https://www.dropbox.com/s/ztan6wn67qxm5gs/Exercise%205.pdf?dl=0)
 - [Project 01](https://www.dropbox.com/sh/8hgs8eo7ockr29i/AAAHzB4lr-0SRg29ryiqUSuDa?dl=0)
 
 
