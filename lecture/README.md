@@ -24,6 +24,6 @@
 - [Exercise 03 (Numpy and Matplotlib)](https://www.dropbox.com/s/1slbnvixgg469nl/Exercise%203.pdf?dl=0)
 - [Exercise 04 (Pandas 01 & 02)](https://www.dropbox.com/s/6dkftc444y2yk1e/Exercise%204.pdf?dl=0)
 - [Exercise 05 (Pandas 03)]()
-- [Project 01]()
+- [Project 01](https://www.dropbox.com/sh/8hgs8eo7ockr29i/AAAHzB4lr-0SRg29ryiqUSuDa?dl=0)
 
 
